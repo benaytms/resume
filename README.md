@@ -1,2 +1,2 @@
-# resume
-Meu currículo
+### Meu currículo atual
+Estarei atualizando conforme necessário.
